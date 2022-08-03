@@ -1,5 +1,5 @@
-This is a test file with push tagged.
 
+commit med tag
 
 
 Etter fjernet branch
